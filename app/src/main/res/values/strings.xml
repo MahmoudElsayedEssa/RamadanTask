@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ramadan</string>
+    <string name="_1_ramadan_1444">1 Ramadan 1444</string>
+    <string name="tuesday_23_march">Tuesday 23 March</string>
+    <string name="IslamicCalendarText">TextView</string>
+    <string name="fajr">fajr</string>
+    <string name="fajr_time">4:15 AM</string>
+    <string name="dhuhr">Dhuhr</string>
+    <string name="dhuhr_time">11:55 AM</string>
+    <string name="asr">Asr</string>
+    <string name="Asr_time">3:29 PM</string>
+    <string name="maghrib">Maghrib</string>
+    <string name="Maghrib_time">6:10 PM</string>
+    <string name="isha">Isha</string>
+    <string name="Isha_time">7:33 PM</string>
+    <string name="prayer_times">Prayer Times</string>
+</resources>
